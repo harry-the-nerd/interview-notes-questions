@@ -1,0 +1,9 @@
+{
+    "foo": {
+        "bar": [
+            {"paint": "red"},
+            {"paint": "green"},
+            {"paint": "blue"}
+        ]
+    }
+}

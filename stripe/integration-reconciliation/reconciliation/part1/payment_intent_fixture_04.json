@@ -1,0 +1,532 @@
+[
+  {
+    "merchant": "acct_410",
+    "amt": 62356,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_410",
+    "amt": 11211,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_410",
+    "amt": 11593,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_410",
+    "amt": 19758,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_410",
+    "amt": 23436,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_739",
+    "amt": 62803,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_739",
+    "amt": 77455,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_739",
+    "amt": 92760,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_739",
+    "amt": 8487,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_739",
+    "amt": 95733,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_739",
+    "amt": 68159,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_739",
+    "amt": 58008,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_739",
+    "amt": 22860,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_739",
+    "amt": 98570,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_739",
+    "amt": 22988,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_739",
+    "amt": 66642,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_739",
+    "amt": 90154,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_739",
+    "amt": 19129,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_739",
+    "amt": 75761,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_739",
+    "amt": 70635,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_735",
+    "amt": 60239,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_735",
+    "amt": 87818,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_735",
+    "amt": 79346,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_735",
+    "amt": 59072,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_758",
+    "amt": 72977,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_758",
+    "amt": 44350,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_758",
+    "amt": 2505,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_758",
+    "amt": 62558,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_758",
+    "amt": 52282,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_758",
+    "amt": 98276,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_758",
+    "amt": 44807,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_758",
+    "amt": 11483,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_758",
+    "amt": 12873,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_758",
+    "amt": 46404,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_758",
+    "amt": 82799,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_758",
+    "amt": 8298,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_758",
+    "amt": 95286,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_758",
+    "amt": 31161,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_758",
+    "amt": 7165,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_758",
+    "amt": 96273,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 16850,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 24158,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 54286,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 6364,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 31980,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 57859,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 67228,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 25234,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 22064,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 49134,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 36290,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 81658,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 9214,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 71757,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 119,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 79021,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 27671,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 51295,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 93210,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 10785,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_525",
+    "amt": 10794,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_890",
+    "amt": 4579,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_890",
+    "amt": 41698,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_890",
+    "amt": 93452,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_890",
+    "amt": 4501,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_661",
+    "amt": 41107,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_661",
+    "amt": 16596,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_661",
+    "amt": 61096,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 49904,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 55651,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 3099,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 47767,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 32230,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 37752,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 49975,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 51339,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 35005,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 57931,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 85146,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 47022,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 85357,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 61689,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 70453,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 38556,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 88294,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 91467,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 98870,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 25309,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 74478,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 91143,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 88192,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 49116,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 34144,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 65992,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 75667,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 51113,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 13672,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 95340,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 96944,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 63591,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 12509,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_812",
+    "amt": 87190,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_508",
+    "amt": 86085,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_508",
+    "amt": 61694,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_508",
+    "amt": 91389,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_508",
+    "amt": 43625,
+    "currency": "usd"
+  }
+]

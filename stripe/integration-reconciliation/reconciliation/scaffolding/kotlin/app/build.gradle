@@ -1,0 +1,42 @@
+plugins {
+    id 'kotlin'
+    id 'application'
+}
+
+application {
+    mainClassName = 'com.example.interview.AppKt'
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+
+    implementation "com.squareup.okhttp3:okhttp:4.9.3"
+    implementation "com.jsoniter:jsoniter:0.9.23"
+
+    testImplementation platform("org.junit:junit-bom:5.8.2")
+    testImplementation "org.junit.jupiter:junit-jupiter"
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+jar {
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+    manifest {
+        attributes 'Main-Class': application.mainClassName
+    }
+    from { configurations.runtimeClasspath.collect { zipTree(it.absoluteFile) } }
+}
+
+compileKotlin {
+    kotlinOptions {
+        jvmTarget = "1.8"
+    }
+}
+compileTestKotlin {
+    kotlinOptions {
+        jvmTarget = "1.8"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "landmarks": [
+        {
+            "place": "Dearborn Park Pickleball and Tennis Court",
+            "latitude": 47.552376215990634,
+            "longitude": -122.29449604399508,
+            "altitude": 73.0
+        },
+        {
+            "place": "The Flora Bakehouse",
+            "latitude": 47.5535127121574,
+            "longitude": -122.3117132185286,
+            "altitude": 43.0
+        },
+        {
+            "place": "Urban Feed and Garden",
+            "latitude": 47.55895623416036,
+            "longitude": -122.30310241245024,
+            "altitude": 85.0
+        },
+        {
+            "place": "VA Puget Sound Health Care System",
+            "latitude": 47.563057942955304,
+            "longitude": -122.30754849006571,
+            "altitude": 106.0
+        },
+        {
+            "place": "Beacon Food Forest",
+            "latitude": 47.567921842026806,
+            "longitude": -122.31177383139575,
+            "altitude": 95.0
+        },
+        {
+            "place": "Beacon Hill Station",
+            "latitude": 47.579442567081756,
+            "longitude": -122.31114840266474,
+            "altitude": 89.0
+        },
+        {
+            "place": "Dr. Jose Rizal Park",
+            "latitude": 47.59245758172196,
+            "longitude": -122.31723435848339,
+            "altitude": 72.0
+        },
+        {
+            "place": "King Street Station",
+            "latitude": 47.598750246053235,
+            "longitude": -122.32825804818214,
+            "altitude": 15.0
+        },
+        {
+            "place": "Seattle Public Library - Central Library",
+            "latitude": 47.60690519361496,
+            "longitude": -122.33152576813505,
+            "altitude": 70.0
+        }
+    ]
+}

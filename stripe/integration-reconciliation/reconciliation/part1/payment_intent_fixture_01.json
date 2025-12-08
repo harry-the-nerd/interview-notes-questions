@@ -1,0 +1,22 @@
+[
+  {
+    "merchant": "acct_707",
+    "amt": 91088,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_707",
+    "amt": 77855,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_707",
+    "amt": 2732,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_707",
+    "amt": 24121,
+    "currency": "usd"
+  }
+]

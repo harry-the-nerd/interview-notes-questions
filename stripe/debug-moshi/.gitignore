@@ -1,0 +1,46 @@
+# For Eclipse
+
+.classpath
+.project
+.settings
+eclipsebin
+
+# For Maven
+
+bin
+gen
+build
+out
+lib
+
+target
+pom.xml.*
+release.properties
+
+.idea
+*.iml
+*.ipr
+*.iws
+classes
+
+obj
+
+.DS_Store
+
+# For Gradle
+
+.gradle
+**/build/
+!src/**/build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Avoid ignore Gradle wrappper properties
+!gradle-wrapper.properties
+
+# Cache of project
+.gradletasknamecache

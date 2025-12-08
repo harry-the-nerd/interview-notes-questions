@@ -1,0 +1,132 @@
+[
+  {
+    "merchant": "acct_164",
+    "amt": 18627,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_164",
+    "amt": 90883,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_164",
+    "amt": 65590,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_164",
+    "amt": 91601,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_164",
+    "amt": 60531,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_164",
+    "amt": 95462,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_164",
+    "amt": 48021,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_164",
+    "amt": 61064,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_967",
+    "amt": 5240,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_967",
+    "amt": 93114,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_967",
+    "amt": 96209,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_260",
+    "amt": 23421,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_260",
+    "amt": 46942,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_260",
+    "amt": 5350,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_260",
+    "amt": 8974,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_260",
+    "amt": 54470,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_260",
+    "amt": 37311,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_260",
+    "amt": 48056,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_260",
+    "amt": 31367,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_260",
+    "amt": 42578,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_260",
+    "amt": 34597,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_260",
+    "amt": 60644,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_260",
+    "amt": 12386,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_728",
+    "amt": 86464,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_728",
+    "amt": 17947,
+    "currency": "usd"
+  },
+  {
+    "merchant": "acct_728",
+    "amt": 16319,
+    "currency": "usd"
+  }
+]
