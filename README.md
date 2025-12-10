@@ -48,6 +48,10 @@ While this repository gives you access to the questions and code scaffolds, **[d
 
 **[Start Practicing on darkinterview.com →](https://darkinterview.com)**
 
+## ⚠️ Disclaimer
+
+All questions are reconstructed from publicly shared candidate experiences. We do not publish proprietary or confidential employer material.
+
 ## 📜 License
 
 This repository is protected under a custom license. You are free to view and use the content for personal learning and interview preparation. Commercial use, reselling, or redistribution is strictly prohibited. See the [LICENSE](./LICENSE) file for details.
