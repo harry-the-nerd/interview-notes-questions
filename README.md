@@ -22,6 +22,8 @@ This repository contains **interview questions and scaffold code** used on [dark
 │   └── find-optimal-commute.md  # Graph traversal problem
 ├── perplexity/                # Perplexity interview questions
 │   └── stream-stop-word-processing.md  # Stream processing problem
+├── rippling/                  # Rippling interview questions
+│   └── in-memory-kv-store.md  # In-memory key-value store with transactions
 ├── xai/                       # xAI interview questions
 │   └── weighted-lru-cache.md  # Weighted LRU cache problem
 └── ...                        # More companies coming soon!
