@@ -10,6 +10,21 @@ This repository contains **interview questions and scaffold code** used on [dark
 - **Starter code and project scaffolds** to help you practice in realistic environments
 - **Multiple question types** including debugging challenges and integration problems
 
+## 🏢 Companies Covered
+
+Find interview questions from these top tech companies:
+
+| Company        | Interview Types       |
+| -------------- | --------------------- |
+| **OpenAI**     | Coding, System Design |
+| **Anthropic**  | Coding, System Design |
+| **Databricks** | Coding, System Design |
+| **Perplexity** | Coding, System Design |
+| **Rippling**   | Coding, System Design |
+| **xAI**        | Coding, System Design |
+
+**Keywords**: OpenAI interview questions, Anthropic interview questions, Databricks interview questions, Perplexity interview questions, Rippling interview questions, xAI interview questions, tech interview preparation, software engineer interview, coding interview, system design interview
+
 ## 📂 Repository Structure
 
 ```
