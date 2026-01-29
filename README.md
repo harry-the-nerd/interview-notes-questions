@@ -22,8 +22,9 @@ Find interview questions from these top tech companies:
 | **Perplexity** | Coding, System Design |
 | **Rippling**   | Coding, System Design |
 | **xAI**        | Coding, System Design |
+| **Netflix**    | Coding, System Design |
 
-**Keywords**: OpenAI interview questions, Anthropic interview questions, Databricks interview questions, Perplexity interview questions, Rippling interview questions, xAI interview questions, tech interview preparation, software engineer interview, coding interview, system design interview
+**Keywords**: OpenAI interview questions, Anthropic interview questions, Databricks interview questions, Perplexity interview questions, Rippling interview questions, xAI interview questions, Netflix interview questions, tech interview preparation, software engineer interview, coding interview, system design interview
 
 ## 📂 Repository Structure
 
@@ -41,6 +42,8 @@ Find interview questions from these top tech companies:
 │   └── in-memory-kv-store.md  # In-memory key-value store with transactions
 ├── xai/                       # xAI interview questions
 │   └── weighted-lru-cache.md  # Weighted LRU cache problem
+├── netflix/                   # Netflix interview questions
+│   └── auto-expire-cache.md   # Auto-expire cache / log rate limiter
 └── ...                        # More companies coming soon!
 ```
 
