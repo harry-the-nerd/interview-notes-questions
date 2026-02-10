@@ -23,8 +23,9 @@ Find interview questions from these top tech companies:
 | **Rippling**   | Coding, System Design |
 | **xAI**        | Coding, System Design |
 | **Netflix**    | Coding, System Design |
+| **Coinbase**   | Coding, System Design |
 
-**Keywords**: OpenAI interview questions, Anthropic interview questions, Databricks interview questions, Perplexity interview questions, Rippling interview questions, xAI interview questions, Netflix interview questions, tech interview preparation, software engineer interview, coding interview, system design interview
+**Keywords**: OpenAI interview questions, Anthropic interview questions, Databricks interview questions, Perplexity interview questions, Rippling interview questions, xAI interview questions, Netflix interview questions, Coinbase interview questions, tech interview preparation, software engineer interview, coding interview, system design interview
 
 ## 📂 Repository Structure
 
@@ -44,6 +45,8 @@ Find interview questions from these top tech companies:
 │   └── weighted-lru-cache.md  # Weighted LRU cache problem
 ├── netflix/                   # Netflix interview questions
 │   └── auto-expire-cache.md   # Auto-expire cache / log rate limiter
+├── coinbase/                  # Coinbase interview questions
+│   └── crypto-order-system.md # Crypto order management system
 └── ...                        # More companies coming soon!
 ```
 
