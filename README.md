@@ -24,8 +24,9 @@ Find interview questions from these top tech companies:
 | **xAI**        | Coding, System Design |
 | **Netflix**    | Coding, System Design |
 | **Coinbase**   | Coding, System Design |
+| **Snowflake**  | Coding, System Design |
 
-**Keywords**: OpenAI interview questions, Anthropic interview questions, Databricks interview questions, Perplexity interview questions, Rippling interview questions, xAI interview questions, Netflix interview questions, Coinbase interview questions, tech interview preparation, software engineer interview, coding interview, system design interview
+**Keywords**: OpenAI interview questions, Anthropic interview questions, Databricks interview questions, Perplexity interview questions, Rippling interview questions, xAI interview questions, Netflix interview questions, Coinbase interview questions, Snowflake interview questions, tech interview preparation, software engineer interview, coding interview, system design interview
 
 ## 📂 Repository Structure
 
@@ -47,6 +48,8 @@ Find interview questions from these top tech companies:
 │   └── auto-expire-cache.md   # Auto-expire cache / log rate limiter
 ├── coinbase/                  # Coinbase interview questions
 │   └── crypto-order-system.md # Crypto order management system
+├── snowflake/                 # Snowflake interview questions
+│   └── design-in-memory-file-system.md # In-memory file system design
 └── ...                        # More companies coming soon!
 ```
 
