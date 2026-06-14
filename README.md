@@ -20,6 +20,7 @@ Find interview questions from these top tech companies:
 | **Anthropic**  | Coding, System Design |
 | **Databricks** | Coding, System Design |
 | **Perplexity** | Coding, System Design |
+| **Stripe**     | Coding, System Design |
 | **Rippling**   | Coding, System Design |
 | **xAI**        | Coding, System Design |
 | **Netflix**    | Coding, System Design |
@@ -27,8 +28,10 @@ Find interview questions from these top tech companies:
 | **Snowflake**  | Coding, System Design |
 | **Reddit**     | Coding, System Design |
 | **Uber**       | Coding, System Design |
+| **Apple**      | Coding, System Design |
+| **Roblox**     | Coding, System Design |
 
-**Keywords**: OpenAI interview questions, Anthropic interview questions, Databricks interview questions, Perplexity interview questions, Rippling interview questions, xAI interview questions, Netflix interview questions, Coinbase interview questions, Snowflake interview questions, Reddit interview questions, Uber interview questions, tech interview preparation, software engineer interview, coding interview, system design interview
+**Keywords**: OpenAI interview questions, Anthropic interview questions, Databricks interview questions, Perplexity interview questions, Stripe interview questions, Rippling interview questions, xAI interview questions, Netflix interview questions, Coinbase interview questions, Snowflake interview questions, Reddit interview questions, Uber interview questions, Apple interview questions, Roblox interview questions, tech interview preparation, software engineer interview, coding interview, system design interview
 
 ## 📂 Repository Structure
 
@@ -42,6 +45,8 @@ Find interview questions from these top tech companies:
 │   └── find-optimal-commute.md  # Graph traversal problem
 ├── perplexity/                # Perplexity interview questions
 │   └── stream-stop-word-processing.md  # Stream processing problem
+├── stripe/                    # Stripe interview questions
+│   └── shipping-cost-calculator.md # Shipping cost calculation problem
 ├── rippling/                  # Rippling interview questions
 │   └── in-memory-kv-store.md  # In-memory key-value store with transactions
 ├── xai/                       # xAI interview questions
@@ -56,6 +61,10 @@ Find interview questions from these top tech companies:
 │   └── moderator-list-hierarchy.md # Moderator list hierarchy problem
 ├── uber/                      # Uber interview questions
 │   └── jump-game-variant.md   # DP with prime-number jump lengths
+├── apple/                     # Apple interview questions
+│   └── lru-cache.md           # LRU cache design problem
+├── roblox/                    # Roblox interview questions
+│   └── sliding-window-rate-limiter.md # Sliding-window rate limiter problem
 └── ...                        # More companies coming soon!
 ```
 
